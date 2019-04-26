@@ -1,5 +1,5 @@
 # WSIPP_Report_Publications
-PDF copies of reports I published while working at the Washington State Institute for Public Policy (WSIPP)
+Research studies I published while working at the Washington State Institute for Public Policy (WSIPP). Files are in PDF format. You can find also find these reports by visiting http://www.wsipp.wa.gov/Publications and filtering by my name, Kris Bitney.
 
 # Recommended Ciations
 Fumia, D., Bitney, K., & Hirsch, M. (2019). The effectiveness of Washington’s College Bound Scholarship program: Supplemental report (Document Number 19-02-2301). Olympia: Washington State Institute for Public Policy.
