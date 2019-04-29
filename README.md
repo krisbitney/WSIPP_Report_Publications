@@ -1,4 +1,4 @@
-# WSIPP_Report_Publications
+# WSIPP Report Publications
 Research studies I published while working at the Washington State Institute for Public Policy (WSIPP). Files are in PDF format. You can find also find these reports by visiting http://www.wsipp.wa.gov/Publications and filtering by my name, Kris Bitney.
 
 # Recommended Ciations
